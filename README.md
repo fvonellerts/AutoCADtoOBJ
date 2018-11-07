@@ -1,5 +1,5 @@
 # AutoCADtoOBJ
-PHP script to extract geometry as 3D .obj file from a AutoCAD file using the Autodesk Forge API
+PHP script to extract 3D .obj file from a .dwg/.dxf AutoCAD file using the Autodesk Forge API
 
 ## About
 Basicly the code from [Autodesk's tutorial](https://forge.autodesk.com/en/docs/model-derivative/v2/tutorials/extract-geometry-from-source-file/), pakaged into a single PHP script to be run from a webserver.
